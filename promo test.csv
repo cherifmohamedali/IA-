@@ -1,0 +1,580 @@
+ANNEE;MATRICULE;SEXE;DIPLOME;AGAFFECT;DIRAFFECT;GRADE;AGE;ANCIENNETE;ANC_GRADE;NBJABSIRR;NBJABSMAL;NOTE;PROMU
+2020;42950;F;SECONDAIRE     ;0;A;S/CHEF SERV.CL2          ;60;31;3;.0    ;.0    ;18.0 ; 
+2020;76000;M;MASTERE        ;0;A;S/CHEF SERV.CL2          ;38;10;1;.0    ;.0    ;19.5 ;P
+2020;46150;F;SECONDAIRE     ;0;A;REDACTEUR PRINCIPAL      ;53;30;4;.0    ;5.0   ;19.3 ;P
+2020;47900;M;BAC            ;0;A;REDACTEUR PRINCIPAL      ;56;29;3;.0    ;.0    ;19.3 ;P
+2020;48850;F;SECONDAIRE     ;0;A;REDACTEUR PRINCIPAL      ;56;29;2;.0    ;2.0   ;19.5 ; 
+2020;35050;F;SECON 1ER CYCLE;0;A;REDACTEUR CL3            ;54;33;1;.0    ;.0    ;19.3 ; 
+2020;45250;F;SECONDAIRE     ;0;A;SECRETAIRE PR.CL1        ;52;30;2;.0    ;1.0   ;19.5 ;P
+2020;41000;M;SECONDAIRE     ;0;B;CHEF SERV.PRINC.         ;53;32;4;.0    ;.0    ;19.5 ; 
+2020;41600;M;BAC            ;0;B;CHEF DE SERVICE          ;51;31;2;.0    ;.0    ;19.5 ; 
+2020;69850;M;BAC            ;0;B;S/CHEF SERV.CL2          ;41;15;1;.0    ;.0    ;19.5 ; 
+2020;33000;M;SECONDAIRE     ;0;B;REDACTEUR PRINCIPAL      ;57;34;2;.0    ;4.0   ;19.3 ; 
+2020;38650;M;SECONDAIRE     ;0;B;REDACTEUR CL2            ;57;32;6;.0    ;.0    ;18.2 ;P
+2020;36150;M;SECON 1ER CYCLE;0;B;REDACTEUR CL2            ;55;33;1;.0    ;.0    ;19.5 ; 
+2020;65700;M;BAC            ;0;B;REDACTEUR CL3            ;49;23;2;.0    ;.0    ;19.5 ;P
+2020;315050;M;BAC            ;0;B;REDACTEUR CL3            ;30;8;1;.0    ;.0    ;19.5 ; 
+2020;24900;M;SECON 1ER CYCLE;0;B;CHEF DE SECT.CL1         ;60;39;5;.0    ;.0    ;17.1 ; 
+2020;53600;M;SECONDAIRE     ;0;B;CHEF DE SECT.CL1         ;59;27;2;.0    ;.0    ;19.5 ;P
+2020;53500;M;SECON 1ER CYCLE;0;B;SECRETAIRE PR.CL1        ;54;27;3;.0    ;.0    ;18.0 ; 
+2020;53100;M;SECONDAIRE     ;0;B;SECRETAIRE PRINC.CL2     ;49;27;2;.0    ;.0    ;19.5 ;P
+2020;313000;M;7ÈME SECONDAIRE;0;B;SECRETAIRE PR.CL3        ;31;9;2;.0    ;.0    ;19.3 ; 
+2020;47750;M;SECON 1ER CYCLE;0;B;SECRETAIRE CL2           ;58;29;2;.0    ;.0    ;18.2 ;P
+2020;49250;M;SECON 1ER CYCLE;0;B;SECRETAIRE CL2           ;48;29;2;.0    ;.0    ;19.5 ;P
+2020;312850;M;7ÈME SECONDAIRE;0;B;SECRETAIRE CL2           ;34;9;2;.0    ;.0    ;19.0 ;P
+2020;48350;M;SECON 1ER CYCLE;0;B;SECRETAIRE CL3           ;50;29;2;.0    ;.0    ;19.3 ;P
+2020;50550;M;SECON 1ER CYCLE;0;B;SECRETAIRE CL3           ;60;28;2;.0    ;.0    ;18.0 ;P
+2020;53200;M;PRIMAIRE       ;0;B;SECRETAIRE CL3           ;54;27;2;.0    ;.0    ;19.0 ;P
+2020;63650;M;PRIMAIRE       ;0;B;AGENT DE BUR.CL1         ;59;24;2;.0    ;2.0   ;17.0 ;P
+2020;313050;M;               ;0;B;HUISSIER CL2             ;29;9;2;.0    ;1.0   ;19.1 ;P
+2020;73450;M;5ÈME PRIMAIRE  ;0;B;AGENT DE SERVICE CL0     ;51;10;2;.0    ;.0    ;18.5 ;P
+2020;62900;F;MAITRISE       ;0;I;CHEF SERV.PRINC.         ;48;21;6;.0    ;.0    ;19.5 ; 
+2020;63400;M;BAC+2          ;0;I;CHEF SERV.PRINC.         ;45;20;5;.0    ;.0    ;19.5 ;P
+2020;65450;M;MAITRISE       ;0;I;CHEF SERV.PRINC.         ;51;21;5;.0    ;5.0   ;18.2 ; 
+2020;70950;M;INGENIEUR      ;0;I;CHEF SERV.PRINC.         ;38;13;4;.0    ;.0    ;19.5 ;P
+2020;71000;M;INGENIEUR      ;0;I;CHEF SERV.PRINC.         ;38;13;4;.0    ;1.0   ;18.7 ; 
+2020;64200;M;BAC+2          ;0;I;CHEF SERV.PRINC.         ;41;20;3;.0    ;.0    ;18.8 ; 
+2020;68100;M;BAC+2          ;0;I;CHEF SERV.PRINC.         ;43;17;2;.0    ;.0    ;19.5 ; 
+2020;72150;M;MAITRISE MASTER;0;I;CHEF SERV.PRINC.         ;47;12;2;.0    ;.0    ;19.5 ; 
+2020;75550;F;MAITRISE       ;0;I;S/CHEF SERV.CL1          ;35;11;2;.0    ;2.0   ;18.8 ;P
+2020;31800;M;SECONDAIRE     ;0;I;S/CHEF SERV.CL2          ;59;36;1;.0    ;.0    ;19.5 ; 
+2020;325700;F;INGENIEUR      ;0;I;S/CHEF SERV.CL2          ;30;4;1;.0    ;.0    ;18.5 ;P
+2020;326800;M;INGENIEUR      ;0;I;S/CHEF SERV.CL2          ;30;4;1;.0    ;.0    ;19.1 ;P
+2020;35650;M;SECONDAIRE     ;0;I;REDACTEUR PRINCIPAL      ;58;33;4;.0    ;.0    ;19.5 ;P
+2020;37800;M;SECONDAIRE     ;0;I;REDACTEUR PRINCIPAL      ;54;32;4;.0    ;.0    ;19.5 ;P
+2020;71100;M;ISET           ;0;I;REDACTEUR PRINCIPAL      ;40;13;4;.0    ;.0    ;19.1 ; 
+2020;42100;M;SECONDAIRE     ;0;I;REDACTEUR PRINCIPAL      ;57;31;3;.0    ;.0    ;19.5 ; 
+2020;312700;M;TECH SUPERIEUR ;0;I;REDACTEUR CL1            ;33;9;2;.0    ;1.0   ;18.8 ; 
+2020;76800;M;BAC            ;0;I;REDACTEUR CL3            ;31;10;2;.0    ;7.0   ;19.1 ; 
+2020;61100;F;MAITRISE       ;0;J;CHEF SERV.PRINC.         ;48;21;5;.0    ;4.0   ;19.2 ; 
+2020;68000;M;BAC+4          ;0;J;CHEF SERV.PRINC.         ;46;17;5;.0    ;.0    ;19.0 ; 
+2020;43200;F;SECONDAIRE     ;0;J;CHEF SERV.PRINC.         ;56;31;2;.0    ;4.0   ;19.5 ; 
+2020;38950;F;SECONDAIRE     ;0;J;CHEF DE SERVICE          ;56;32;4;.0    ;.0    ;18.7 ;P
+2020;72850;M;MAITRISE       ;0;J;CHEF DE SERVICE          ;35;11;3;.0    ;3.0   ;19.2 ;P
+2020;77950;F;MASTER         ;0;J;S/CHEF SERV.CL1          ;39;4;2;.0    ;.0    ;18.5 ; 
+2020;32300;F;SECONDAIRE     ;0;J;S/CHEF SERV.CL1          ;59;35;1;.0    ;.0    ;19.1 ; 
+2020;44400;M;BAC            ;0;J;S/CHEF SERV.CL1          ;61;31;1;.0    ;2.0   ;19.0 ; 
+2020;26250;M;SECONDAIRE     ;0;J;S/CHEF SERV.CL2          ;59;39;1;2.0   ;1.0   ;18.1 ; 
+2020;30750;F;SECONDAIRE     ;0;J;REDACTEUR PRINCIPAL      ;59;36;4;.0    ;4.0   ;19.0 ;P
+2020;46450;F;BAC            ;0;J;REDACTEUR PRINCIPAL      ;59;30;4;.0    ;3.0   ;19.5 ;P
+2020;78250;M;MAITRISE       ;0;J;REDACTEUR PRINCIPAL      ;44;3;3;.0    ;.0    ;17.7 ; 
+2020;67300;F;SECONDAIRE     ;0;J;REDACTEUR PRINCIPAL      ;46;22;2;.0    ;5.0   ;18.0 ; 
+2020;43250;F;SECONDAIRE     ;0;J;REDACTEUR CL1            ;57;31;3;.0    ;.0    ;18.7 ; 
+2020;55300;F;SECONDAIRE     ;0;J;REDACTEUR CL1            ;51;26;3;.0    ;.0    ;19.0 ;P
+2020;42800;M;SECONDAIRE     ;0;J;REDACTEUR CL1            ;57;31;2;.0    ;5.0   ;18.6 ; 
+2020;32450;M;SECONDAIRE     ;0;J;REDACTEUR CL1            ;56;35;1;.0    ;.0    ;19.0 ; 
+2020;39100;F;SECON 1ER CYCLE;0;J;REDACTEUR CL3            ;56;32;1;.0    ;3.0   ;19.0 ; 
+2020;53350;F;SECONDAIRE     ;0;J;CHEF DE SEC.H.C CL0      ;53;27;5;.0    ;1.0   ;18.0 ; 
+2020;36750;M;SECONDAIRE     ;0;J;CHEF DE SEC.H.C CL0      ;55;33;3;.0    ;17.0  ;18.7 ; 
+2020;32950;F;SECON 1ER CYCLE;0;J;CHEF DE SECT.CL1         ;57;34;2;.0    ;5.0   ;18.5 ; 
+2020;40050;M;PRIMAIRE       ;0;J;SECRETAIRE PR.CL1        ;56;32;3;.0    ;.0    ;19.3 ;P
+2020;313450;F;BAC            ;0;J;SECRETAIRE PRINC.CL2     ;31;9;2;.0    ;1.0   ;19.2 ;P
+2020;58550;F;MAITRISE       ;0;M;CHEF SERV.PRINC.         ;49;23;10;.0    ;1.0   ;19.0 ; 
+2020;35900;F;SECONDAIRE     ;0;M;CHEF SERV.PRINC.         ;56;33;8;.0    ;208.0 ;19.1 ; 
+2020;51450;F;SECONDAIRE     ;0;M;CHEF DE SERVICE          ;55;28;3;.0    ;3.0   ;19.5 ;P
+2020;61850;F;BAC            ;0;M;CHEF DE SERVICE          ;51;25;3;.0    ;.0    ;19.5 ;P
+2020;314800;M;MASTER         ;0;M;S/CHEF SERV.CL1          ;32;8;2;.0    ;.0    ;19.5 ;P
+2020;43050;M;BAC            ;0;M;REDACTEUR CL1            ;60;31;3;.0    ;.0    ;18.8 ; 
+2020;65500;M;BTP COMPTAB    ;0;M;REDACTEUR CL3            ;47;22;2;.0    ;1.0   ;19.3 ;P
+2020;53050;M;BAC+2          ;0;O;CHEF SERV.PRINC.         ;57;27;6;.0    ;25.0  ;18.0 ; 
+2020;66900;M;SECONDAIRE     ;0;O;S/CHEF SERV.CL1          ;44;22;3;.0    ;.0    ;19.3 ;P
+2020;312550;M;MASTER         ;0;O;S/CHEF SERV.CL1          ;38;9;3;.0    ;.0    ;19.1 ;P
+2020;316100;M;MASTER         ;0;O;S/CHEF SERV.CL1          ;36;8;2;.0    ;.0    ;19.3 ;P
+2020;318650;M;MASTER         ;0;O;S/CHEF SERV.CL1          ;33;7;2;.0    ;.0    ;19.2 ;P
+2020;320350;M;MASTER         ;0;O;S/CHEF SERV.CL1          ;35;6;2;.0    ;1.0   ;19.5 ;P
+2020;75800;F;BAC+2          ;0;O;S/CHEF SERV.CL1          ;39;9;1;.0    ;.0    ;19.3 ;P
+2020;78150;M;MASTER         ;0;O;S/CHEF SERV.CL1          ;32;4;1;.0    ;3.0   ;19.1 ; 
+2020;320750;M;MASTER         ;0;O;S/CHEF SERV.CL1          ;33;6;1;.0    ;.0    ;19.1 ; 
+2020;321050;M;MASTER         ;0;O;S/CHEF SERV.CL1          ;33;6;1;.0    ;.0    ;19.5 ; 
+2020;322200;M;MASTER         ;0;O;S/CHEF SERV.CL1          ;29;6;1;.0    ;2.0   ;19.5 ;P
+2020;314000;F;MAITRISE       ;0;O;S/CHEF SERV.CL2          ;38;8;1;.0    ;2.0   ;19.5 ;P
+2020;317900;M;MAITRISE       ;0;O;S/CHEF SERV.CL2          ;37;7;1;.0    ;2.0   ;19.2 ;P
+2020;323350;M;MASTER         ;0;O;S/CHEF SERV.CL2          ;29;5;1;.0    ;.0    ;19.5 ;P
+2020;32350;F;SECONDAIRE     ;0;O;REDACTEUR PRINCIPAL      ;60;35;2;.0    ;3.0   ;19.0 ; 
+2020;55200;F;BAC            ;0;O;CHEF DE SEC.H.C CL0      ;51;26;2;.0    ;4.0   ;19.3 ;P
+2020;37650;M;BAC+5          ;0;Q;CHEF SERV.PRINC.         ;60;32;11;.0    ;2.0   ;18.1 ;P
+2020;53000;M;BAC            ;0;Q;CHEF SERV.PRINC.         ;55;27;3;.0    ;2.0   ;19.5 ; 
+2020;70450;M;MAITRISE       ;0;Q;S/CHEF SERV.CL1          ;41;14;6;.0    ;7.0   ;18.0 ; 
+2020;314950;M;MASTER FINANCES;0;Q;S/CHEF SERV.CL1          ;34;8;2;.0    ;.0    ;19.5 ;P
+2020;76250;F;MAITRISE       ;0;Q;S/CHEF SERV.CL1          ;37;10;1;.0    ;1.0   ;19.0 ; 
+2020;322150;M;MASTER         ;0;Q;S/CHEF SERV.CL1          ;30;6;1;.0    ;.0    ;19.5 ; 
+2020;323300;M;MASTERE        ;0;Q;S/CHEF SERV.CL2          ;31;5;1;.0    ;4.0   ;18.3 ;P
+2020;62500;M;BAC+2          ;0;R;CHEF SERV.PRINC.         ;44;21;6;.0    ;.0    ;19.1 ;P
+2020;63450;M;BAC+2          ;0;R;CHEF SERV.PRINC.         ;44;20;6;.0    ;2.0   ;19.1 ;P
+2020;60900;M;BAC+2          ;0;R;CHEF SERV.PRINC.         ;45;21;5;.0    ;.0    ;19.1 ; 
+2020;63500;M;BAC+2          ;0;R;CHEF SERV.PRINC.         ;46;20;5;.0    ;.0    ;19.1 ; 
+2020;45900;M;SECONDAIRE     ;0;R;S/CHEF SERV.CL2          ;56;30;2;.0    ;.0    ;19.0 ;P
+2020;75150;M;BAC+2          ;0;R;REDACTEUR PRINCIPAL      ;37;10;3;.0    ;.0    ;18.8 ;P
+2020;37200;F;SECONDAIRE     ;0;S;CHEF SERV.PRINC.         ;58;33;7;.0    ;.0    ;19.5 ;P
+2020;37450;M;SECONDAIRE     ;0;S;CHEF SERV.PRINC.         ;56;32;5;.0    ;.0    ;19.2 ; 
+2020;57300;M;SECONDAIRE     ;0;S;CHEF SERV.PRINC.         ;49;25;2;.0    ;.0    ;19.2 ; 
+2020;71700;F;MAITRISE       ;0;S;CHEF DE SERVICE          ;40;12;2;.0    ;63.0  ;19.0 ; 
+2020;39600;M;SECONDAIRE     ;0;S;S/CHEF SERV.CL1          ;56;32;1;.0    ;.0    ;19.3 ; 
+2020;44800;M;SECONDAIRE     ;0;S;S/CHEF SERV.CL1          ;53;31;1;.0    ;7.0   ;19.1 ; 
+2020;319600;F;MASTER         ;0;S;S/CHEF SERV.CL1          ;33;7;1;.0    ;2.0   ;19.0 ; 
+2020;40250;M;SECONDAIRE     ;0;S;S/CHEF SERV.CL2          ;57;32;2;.0    ;4.0   ;19.1 ;P
+2020;40750;M;BAC            ;0;S;S/CHEF SERV.CL2          ;57;32;2;.0    ;.0    ;19.0 ;P
+2020;49000;M;SECONDAIRE     ;0;S;S/CHEF SERV.CL2          ;53;29;2;.0    ;4.0   ;18.7 ;P
+2020;40900;M;SECONDAIRE     ;0;S;REDACTEUR PRINCIPAL      ;55;32;4;.0    ;.0    ;18.2 ; 
+2020;46650;M;SECONDAIRE     ;0;S;REDACTEUR PRINCIPAL      ;51;30;4;.0    ;.0    ;19.2 ;P
+2020;316300;M;BAC+2          ;0;S;REDACTEUR CL1            ;40;7;1;.0    ;1.0   ;19.0 ; 
+2020;54750;F;SECONDAIRE     ;0;S;REDACTEUR CL2            ;52;26;3;.0    ;1.0   ;18.8 ; 
+2020;43950;F;SECONDAIRE     ;0;S;REDACTEUR CL2            ;56;31;1;.0    ;3.0   ;19.0 ; 
+2020;55650;F;SECONDAIRE     ;0;S;REDACTEUR CL2            ;53;26;1;.0    ;5.0   ;19.1 ; 
+2020;28450;F;SECON 1ER CYCLE;0;S;REDACTEUR CL3            ;57;38;2;.0    ;4.0   ;17.1 ; 
+2020;47550;M;SECONDAIRE     ;0;S;REDACTEUR CL3            ;52;29;2;.0    ;8.0   ;19.0 ; 
+2020;56300;M;SECONDAIRE     ;0;S;REDACTEUR CL3            ;52;25;1;.0    ;.0    ;19.1 ;P
+2020;22300;F;SECONDAIRE     ;0;S;SECRETAIRE PR.CL1        ;60;40;3;.0    ;.0    ;19.0 ; 
+2020;310000;F;SECONDAIRE     ;0;S;SECRETAIRE CL2           ;34;10;3;.0    ;6.0   ;18.0 ; 
+2020;317650;F;MASTER         ;0;T;S/CHEF SERV.CL1          ;33;7;2;.0    ;112.0 ;19.2 ; 
+2020;320550;F;MASTER         ;0;T;S/CHEF SERV.CL1          ;32;6;1;.0    ;2.0   ;18.5 ; 
+2020;321000;F;MASTER         ;0;T;S/CHEF SERV.CL1          ;31;6;1;.0    ;63.0  ;18.8 ; 
+2020;322750;M;MASTER         ;0;T;S/CHEF SERV.CL2          ;29;5;1;.0    ;2.0   ;18.6 ;P
+2020;323450;M;MASTER         ;0;T;S/CHEF SERV.CL2          ;33;5;1;.0    ;2.0   ;19.0 ;P
+2020;323900;F;MASTER         ;0;T;S/CHEF SERV.CL2          ;29;5;1;.0    ;3.0   ;18.8 ;P
+2020;321450;M;LICENCE        ;0;T;REDACTEUR CL1            ;29;6;2;.0    ;.0    ;18.7 ;P
+2020;77750;M;TECHNICIEN SUP ;0;U;CHEF SERV.PRINC.         ;44;5;2;.0    ;.0    ;19.1 ; 
+2020;51700;F;SECONDAIRE     ;0;U;REDACTEUR CL1            ;50;28;2;.0    ;.0    ;19.5 ;P
+2020;312050;M;TECHNICIEN     ;0;U;SECRETAIRE PR.CL1        ;45;10;2;.0    ;.0    ;18.0 ;P
+2020;61300;M;PRIMAIRE       ;0;U;SECRETAIRE CL3           ;57;25;2;.0    ;.0    ;19.0 ;P
+2020;68700;M;SECON 1ER CYCLE;0;U;AGENT DE BUR.CL2         ;59;21;2;.0    ;.0    ;16.1 ; 
+2020;70600;M;BAC+4          ;0;V;CHEF SERV.PRINC.         ;41;16;3;.0    ;.0    ;18.1 ; 
+2020;315550;M;MASTER FINANCE ;0;V;S/CHEF SERV.CL1          ;38;8;2;.0    ;.0    ;19.2 ;P
+2020;320200;M;MASTER         ;0;V;S/CHEF SERV.CL1          ;35;7;2;.0    ;.0    ;19.5 ;P
+2020;319700;M;MASTER         ;0;V;S/CHEF SERV.CL1          ;35;7;1;.0    ;.0    ;19.2 ; 
+2020;54300;F;SECONDAIRE     ;0;V;REDACTEUR CL1            ;53;27;1;.0    ;.0    ;19.3 ; 
+2020;30700;M;SECON 1ER CYCLE;0;X;CHEF SERV.PRINC.         ;57;36;8;.0    ;.0    ;18.0 ; 
+2020;73250;M;BAC+5          ;0;X;CHEF SERV.PRINC.         ;40;10;5;.0    ;2.0   ;19.5 ;P
+2020;60550;F;DOCTORAT       ;0;X;CHEF DE SERVICE          ;51;22;5;.0    ;5.0   ;18.2 ; 
+2020;318800;M;MASTER         ;0;X;S/CHEF SERV.CL2          ;33;7;3;.0    ;5.0   ;18.3 ;P
+2020;323550;M;MASTERE        ;0;X;REDACTEUR CL1            ;26;5;1;.0    ;.0    ;18.6 ;P
+2020;61900;M;SECONDAIRE     ;0;X;REDACTEUR CL3            ;54;25;2;1.0   ;.0    ;19.0 ;P
+2020;34950;M;PRIMAIRE       ;0;X;SECRETAIRE PR.CL1        ;55;33;2;.0    ;.0    ;19.5 ; 
+2020;53950;M;SECON 1ER CYCLE;0;X;SECRETAIRE CL3           ;57;27;2;.0    ;.0    ;19.5 ;P
+2020;320800;M;MASTER         ;0;Y;S/CHEF SERV.CL1          ;36;6;1;.0    ;.0    ;19.5 ;P
+2020;326500;M;MASTER         ;0;Y;S/CHEF SERV.CL2          ;28;4;1;.0    ;.0    ;19.5 ;P
+2020;315400;M;LICENCE FINANCE;0;Y;REDACTEUR PRINCIPAL      ;31;8;2;.0    ;.0    ;19.5 ;P
+2020;72800;M;BAC            ;19;Z;CHEF SERV.PRINC.         ;56;11;11;.0    ;.0    ;18.8 ; 
+2020;32000;M;SECONDAIRE     ;66;Z;CHEF SERV.PRINC.         ;56;35;10;.0    ;.0    ;19.0 ; 
+2020;52400;M;BAC+6          ;1;Z;CHEF SERV.PRINC.         ;57;27;10;.0    ;.0    ;18.0 ; 
+2020;64150;M;MAITRISE       ;6;Z;CHEF SERV.PRINC.         ;46;20;10;.0    ;.0    ;19.3 ; 
+2020;56650;M;BAC            ;67;Z;CHEF SERV.PRINC.         ;49;25;8;.0    ;.0    ;18.0 ; 
+2020;33800;M;SECONDAIRE     ;49;Z;CHEF SERV.PRINC.         ;56;34;7;.0    ;.0    ;17.7 ; 
+2020;56850;F;MAITRISE       ;19;Z;CHEF SERV.PRINC.         ;53;25;7;.0    ;.0    ;19.5 ;P
+2020;65600;M;MAITRISE       ;112;Z;CHEF SERV.PRINC.         ;45;19;7;.0    ;.0    ;18.3 ;P
+2020;62000;F;MAITRISE       ;66;Z;CHEF SERV.PRINC.         ;51;21;5;.0    ;.0    ;19.2 ; 
+2020;69200;M;MAITRISE       ;16;Z;CHEF SERV.PRINC.         ;44;17;5;.0    ;.0    ;18.9 ; 
+2020;69750;M;BAC+4          ;68;Z;CHEF SERV.PRINC.         ;40;15;5;.0    ;.0    ;18.8 ;P
+2020;70800;M;BAC+6          ;0;Z;CHEF SERV.PRINC.         ;40;14;5;.0    ;.0    ;19.1 ; 
+2020;43600;M;BAC            ;34;Z;CHEF SERV.PRINC.         ;58;31;4;.0    ;.0    ;19.4 ; 
+2020;52300;M;SECONDAIRE     ;33;Z;CHEF SERV.PRINC.         ;50;28;4;.0    ;.0    ;18.0 ; 
+2020;63600;M;MAITRISE       ;8;Z;CHEF SERV.PRINC.         ;46;20;4;.0    ;.0    ;18.0 ; 
+2020;70850;M;MAITRISE       ;117;Z;CHEF SERV.PRINC.         ;37;14;4;.0    ;.0    ;19.5 ;P
+2020;72900;F;BAC+6          ;0;Z;CHEF SERV.PRINC.         ;40;11;4;.0    ;2.0   ;19.0 ; 
+2020;61400;F;MAITRISE       ;113;Z;CHEF SERV.PRINC.         ;47;21;3;.0    ;1.0   ;18.0 ; 
+2020;64700;F;MAITRISE       ;27;Z;CHEF SERV.PRINC.         ;48;20;3;1.0   ;6.0   ;19.0 ; 
+2020;70000;M;MAITRISE       ;31;Z;CHEF SERV.PRINC.         ;37;14;3;.0    ;.0    ;19.1 ; 
+2020;48600;M;BAC            ;70;Z;CHEF SERV.PRINC.         ;53;29;2;.0    ;.0    ;19.2 ; 
+2020;49150;M;SECONDAIRE     ;43;Z;CHEF SERV.PRINC.         ;55;29;2;.0    ;.0    ;18.0 ; 
+2020;77300;M;MASTER         ;0;Z;CHEF SERV.PRINC.         ;40;6;2;.0    ;1.0   ;19.5 ; 
+2020;60950;F;MAITRISE       ;2;Z;CHEF DE SERVICE          ;50;21;8;.0    ;3.0   ;10.5 ; 
+2020;77500;M;MAITRISE       ;99;Z;CHEF DE SERVICE          ;41;6;6;.0    ;.0    ;18.0 ;P
+2020;38200;M;SECONDAIRE     ;31;Z;CHEF DE SERVICE          ;55;32;5;.0    ;2.0   ;18.5 ;P
+2020;74350;F;MASTER PROFESSI;42;Z;CHEF DE SERVICE          ;41;11;5;.0    ;.0    ;19.3 ;P
+2020;77700;M;MAITRISE GESTIO;79;Z;CHEF DE SERVICE          ;38;5;5;.0    ;.0    ;18.9 ;P
+2020;49650;M;SECONDAIRE     ;55;Z;CHEF DE SERVICE          ;56;29;4;.0    ;.0    ;19.5 ;P
+2020;63850;F;BAC+2          ;6;Z;CHEF DE SERVICE          ;43;20;4;.0    ;.0    ;19.5 ;P
+2020;78050;M;MAITRISE       ;0;Z;CHEF DE SERVICE          ;35;4;4;.0    ;1.0   ;19.2 ;P
+2020;41900;M;SECONDAIRE     ;126;Z;CHEF DE SERVICE          ;56;31;3;.0    ;.0    ;18.0 ; 
+2020;61800;M;SECONDAIRE     ;108;Z;CHEF DE SERVICE          ;53;25;3;.0    ;.0    ;18.0 ; 
+2020;72400;M;MAITRISE       ;922;Z;CHEF DE SERVICE          ;44;11;3;.0    ;3.0   ;19.2 ;P
+2020;77100;M;MASTER         ;22;Z;CHEF DE SERVICE          ;35;9;3;.0    ;.0    ;18.0 ; 
+2020;312800;M;MASTER         ;129;Z;CHEF DE SERVICE          ;39;9;3;.0    ;.0    ;19.0 ;P
+2020;64950;F;MAITRISE       ;82;Z;CHEF DE SERVICE          ;47;20;2;.0    ;.0    ;19.3 ; 
+2020;65950;M;SECONDAIRE     ;35;Z;CHEF DE SERVICE          ;44;23;2;.0    ;.0    ;19.5 ;P
+2020;68400;M;SECONDAIRE     ;49;Z;CHEF DE SERVICE          ;47;21;2;.0    ;.0    ;18.2 ; 
+2020;71900;M;MAITRISE       ;1;Z;CHEF DE SERVICE          ;43;12;2;.0    ;.0    ;19.1 ; 
+2020;72700;F;LICENCE        ;0;Z;CHEF DE SERVICE          ;41;11;2;.0    ;1.0   ;19.0 ; 
+2020;314650;M;MASTER         ;24;Z;CHEF DE SERVICE          ;41;8;2;.0    ;.0    ;19.5 ;P
+2020;66050;M;SECONDAIRE     ;97;Z;S/CHEF SERV.CL1          ;47;23;5;.0    ;.0    ;18.2 ;P
+2020;77650;M;MAITRISE       ;96;Z;S/CHEF SERV.CL1          ;39;5;5;.0    ;5.0   ;18.4 ; 
+2020;77850;M;MAITRISE       ;27;Z;S/CHEF SERV.CL1          ;39;5;5;.0    ;1.0   ;19.0 ; 
+2020;67450;M;SECONDAIRE     ;8;Z;S/CHEF SERV.CL1          ;48;22;4;.0    ;91.0  ;19.2 ; 
+2020;75050;F;MASTER         ;71;Z;S/CHEF SERV.CL1          ;38;10;4;.0    ;.0    ;19.0 ; 
+2020;64300;F;BAC            ;32;Z;S/CHEF SERV.CL1          ;52;24;3;.0    ;5.0   ;19.5 ; 
+2020;65350;M;BAC            ;23;Z;S/CHEF SERV.CL1          ;45;23;3;.0    ;.0    ;18.0 ;P
+2020;66150;M;BAC            ;81;Z;S/CHEF SERV.CL1          ;52;23;3;.0    ;.0    ;18.0 ;P
+2020;74400;M;LICENCE        ;27;Z;S/CHEF SERV.CL1          ;38;11;3;.0    ;.0    ;19.0 ; 
+2020;36250;M;BAC            ;1;Z;S/CHEF SERV.CL1          ;56;33;2;.0    ;.0    ;19.1 ; 
+2020;45450;M;SECONDAIRE     ;108;Z;S/CHEF SERV.CL1          ;51;30;2;.0    ;.0    ;18.0 ; 
+2020;55500;F;SECONDAIRE     ;48;Z;S/CHEF SERV.CL1          ;49;26;2;.0    ;1.0   ;19.0 ; 
+2020;75000;F;MAITRISE       ;103;Z;S/CHEF SERV.CL1          ;35;10;2;.0    ;.0    ;18.8 ;P
+2020;75200;F;LICENCE        ;89;Z;S/CHEF SERV.CL1          ;36;10;2;.0    ;.0    ;18.8 ;P
+2020;77150;M;MAITRISE       ;114;Z;S/CHEF SERV.CL1          ;39;9;2;.0    ;.0    ;19.5 ;P
+2020;315450;M;MASTER AUDIT   ;125;Z;S/CHEF SERV.CL1          ;34;8;2;.0    ;.0    ;19.0 ;P
+2020;315650;M;MASTER FINANCE ;2;Z;S/CHEF SERV.CL1          ;37;8;2;1.0   ;2.0   ;19.5 ;P
+2020;315900;F;MASTER         ;110;Z;S/CHEF SERV.CL1          ;37;8;2;.0    ;.0    ;19.1 ;P
+2020;316050;M;MASTER         ;77;Z;S/CHEF SERV.CL1          ;32;8;2;.0    ;.0    ;18.9 ;P
+2020;316800;M;MASTER         ;922;Z;S/CHEF SERV.CL1          ;37;7;2;.0    ;.0    ;19.1 ; 
+2020;317600;M;MASTER         ;128;Z;S/CHEF SERV.CL1          ;35;7;2;.0    ;.0    ;19.0 ;P
+2020;317750;M;MASTER         ;21;Z;S/CHEF SERV.CL1          ;32;7;2;.0    ;2.0   ;18.5 ;P
+2020;318700;M;MASTER         ;120;Z;S/CHEF SERV.CL1          ;36;7;2;.0    ;.0    ;19.3 ;P
+2020;318750;M;MASTER         ;39;Z;S/CHEF SERV.CL1          ;39;7;2;.0    ;.0    ;19.4 ;P
+2020;319650;M;MASTER         ;40;Z;S/CHEF SERV.CL1          ;37;7;2;.0    ;2.0   ;19.5 ;P
+2020;319900;F;MASTER         ;73;Z;S/CHEF SERV.CL1          ;33;7;2;.0    ;62.0  ;19.0 ; 
+2020;320000;F;MASTER         ;83;Z;S/CHEF SERV.CL1          ;32;7;2;.0    ;.0    ;19.5 ;P
+2020;50250;M;SECONDAIRE     ;30;Z;S/CHEF SERV.CL1          ;54;28;1;.0    ;.0    ;19.5 ; 
+2020;65400;M;BAC            ;119;Z;S/CHEF SERV.CL1          ;47;23;1;.0    ;.0    ;19.1 ; 
+2020;66600;F;SECONDAIRE     ;98;Z;S/CHEF SERV.CL1          ;43;22;1;.0    ;.0    ;19.2 ; 
+2020;67700;M;BAC            ;127;Z;S/CHEF SERV.CL1          ;55;22;1;.0    ;.0    ;19.5 ; 
+2020;70100;F;BAC            ;48;Z;S/CHEF SERV.CL1          ;40;18;1;.0    ;4.0   ;19.0 ; 
+2020;74900;F;MAITRISE       ;85;Z;S/CHEF SERV.CL1          ;38;11;1;.0    ;2.0   ;18.7 ; 
+2020;76350;F;MAITRISE       ;84;Z;S/CHEF SERV.CL1          ;37;11;1;.0    ;.0    ;19.0 ; 
+2020;76850;F;MASTER         ;96;Z;S/CHEF SERV.CL1          ;40;10;1;.0    ;3.0   ;19.1 ; 
+2020;312100;M;MAITRISE       ;69;Z;S/CHEF SERV.CL1          ;35;10;1;.0    ;.0    ;18.0 ; 
+2020;312150;M;MAITRISE       ;82;Z;S/CHEF SERV.CL1          ;35;10;1;.0    ;.0    ;19.5 ; 
+2020;312750;M;MAITRISE       ;54;Z;S/CHEF SERV.CL1          ;35;9;1;.0    ;.0    ;19.1 ;P
+2020;313900;M;LICENCE        ;84;Z;S/CHEF SERV.CL1          ;31;8;1;.0    ;.0    ;18.0 ; 
+2020;315700;M;MASTER FINANCE ;15;Z;S/CHEF SERV.CL1          ;38;8;1;.0    ;.0    ;19.0 ;P
+2020;317050;M;MASTER         ;60;Z;S/CHEF SERV.CL1          ;34;7;1;.0    ;.0    ;19.0 ;P
+2020;317500;M;MASTER         ;121;Z;S/CHEF SERV.CL1          ;32;7;1;.0    ;.0    ;19.0 ;P
+2020;317700;M;MASTER         ;120;Z;S/CHEF SERV.CL1          ;36;7;1;.0    ;1.0   ;19.1 ; 
+2020;319850;M;MASTER         ;2;Z;S/CHEF SERV.CL1          ;37;7;1;.0    ;.0    ;19.2 ; 
+2020;320300;M;LICENCE+ MASTER;115;Z;S/CHEF SERV.CL1          ;31;6;1;.0    ;.0    ;19.3 ;P
+2020;320450;M;MASTER         ;9;Z;S/CHEF SERV.CL1          ;33;6;1;.0    ;.0    ;19.0 ;P
+2020;320600;M;MASTER         ;107;Z;S/CHEF SERV.CL1          ;36;6;1;.0    ;.0    ;19.0 ; 
+2020;320850;M;MASTER         ;61;Z;S/CHEF SERV.CL1          ;38;6;1;.0    ;.0    ;18.2 ; 
+2020;320950;M;MASTER         ;62;Z;S/CHEF SERV.CL1          ;36;6;1;.0    ;.0    ;19.2 ;P
+2020;321700;M;MASTER         ;91;Z;S/CHEF SERV.CL1          ;36;6;1;.0    ;.0    ;18.0 ;P
+2020;321750;M;MASTER         ;113;Z;S/CHEF SERV.CL1          ;33;6;1;.0    ;.0    ;19.0 ; 
+2020;322300;M;MASTER         ;119;Z;S/CHEF SERV.CL1          ;34;6;1;.0    ;.0    ;19.0 ; 
+2020;315800;M;MASTERE FINANCE;56;Z;S/CHEF SERV.CL2          ;34;8;6;.0    ;.0    ;18.4 ; 
+2020;74200;F;MAITRISE       ;92;Z;S/CHEF SERV.CL2          ;40;11;5;.0    ;.0    ;18.0 ;P
+2020;61200;M;MAITRISE       ;118;Z;S/CHEF SERV.CL2          ;49;25;4;.0    ;3.0   ;18.7 ; 
+2020;74700;F;MAITRISE       ;112;Z;S/CHEF SERV.CL2          ;37;11;4;.0    ;1.0   ;18.7 ;P
+2020;75750;M;MAITRISE       ;85;Z;S/CHEF SERV.CL2          ;40;11;4;.0    ;4.0   ;19.1 ;P
+2020;39250;M;SECONDAIRE     ;1;Z;S/CHEF SERV.CL2          ;54;32;3;.0    ;.0    ;19.1 ;P
+2020;315200;M;MATRISE MARKETI;123;Z;S/CHEF SERV.CL2          ;34;8;3;.0    ;.0    ;19.1 ;P
+2020;317150;M;MASTER         ;59;Z;S/CHEF SERV.CL2          ;34;7;3;.0    ;.0    ;18.2 ;P
+2020;317550;F;MASTER         ;98;Z;S/CHEF SERV.CL2          ;38;7;3;.0    ;3.0   ;19.2 ; 
+2020;321400;M;MASTER         ;118;Z;S/CHEF SERV.CL2          ;36;6;3;.0    ;2.0   ;18.0 ;P
+2020;35750;M;BAC            ;11;Z;S/CHEF SERV.CL2          ;58;33;2;.0    ;.0    ;18.6 ;P
+2020;37000;M;SECONDAIRE     ;77;Z;S/CHEF SERV.CL2          ;54;33;2;.0    ;.0    ;19.5 ;P
+2020;43400;M;BAC            ;38;Z;S/CHEF SERV.CL2          ;56;31;2;.0    ;.0    ;18.0 ;P
+2020;44050;M;BAC            ;44;Z;S/CHEF SERV.CL2          ;56;31;2;.0    ;.0    ;18.8 ;P
+2020;313950;F;MAITRISE       ;71;Z;S/CHEF SERV.CL2          ;36;8;2;.0    ;5.0   ;19.1 ;P
+2020;320500;M;MASTER         ;7;Z;S/CHEF SERV.CL2          ;32;6;2;.0    ;.0    ;18.3 ; 
+2020;321550;M;MASTER         ;57;Z;S/CHEF SERV.CL2          ;33;6;2;.0    ;.0    ;19.3 ;P
+2020;322550;M;MASTER         ;60;Z;S/CHEF SERV.CL2          ;32;6;2;.0    ;.0    ;18.5 ; 
+2020;24000;M;SECONDAIRE     ;14;Z;S/CHEF SERV.CL2          ;59;40;1;.0    ;.0    ;19.5 ; 
+2020;30300;M;SECONDAIRE     ;54;Z;S/CHEF SERV.CL2          ;60;37;1;.0    ;.0    ;19.0 ; 
+2020;31600;M;SECONDAIRE     ;60;Z;S/CHEF SERV.CL2          ;59;36;1;.0    ;.0    ;18.1 ; 
+2020;31750;M;SECONDAIRE     ;10;Z;S/CHEF SERV.CL2          ;56;36;1;.0    ;.0    ;19.0 ;P
+2020;31900;M;SECONDAIRE     ;17;Z;S/CHEF SERV.CL2          ;59;35;1;.0    ;.0    ;18.7 ; 
+2020;35350;M;SECONDAIRE     ;96;Z;S/CHEF SERV.CL2          ;56;33;1;.0    ;.0    ;19.3 ; 
+2020;35450;F;BAC            ;54;Z;S/CHEF SERV.CL2          ;54;33;1;.0    ;.0    ;19.0 ; 
+2020;36900;M;SECONDAIRE     ;59;Z;S/CHEF SERV.CL2          ;52;33;1;.0    ;.0    ;19.5 ; 
+2020;37950;M;BAC            ;55;Z;S/CHEF SERV.CL2          ;56;32;1;.0    ;.0    ;19.0 ; 
+2020;42600;M;BAC            ;78;Z;S/CHEF SERV.CL2          ;58;31;1;.0    ;.0    ;19.1 ; 
+2020;46900;M;BAC            ;75;Z;S/CHEF SERV.CL2          ;56;30;1;.0    ;2.0   ;17.8 ; 
+2020;53400;M;BAC            ;72;Z;S/CHEF SERV.CL2          ;46;27;1;.0    ;.0    ;19.0 ; 
+2020;56800;M;BAC+2          ;115;Z;S/CHEF SERV.CL2          ;53;25;1;.0    ;.0    ;19.5 ; 
+2020;313650;F;MAITRISE DROIT ;95;Z;S/CHEF SERV.CL2          ;40;8;1;.0    ;2.0   ;19.0 ; 
+2020;314050;F;MAITRISE       ;125;Z;S/CHEF SERV.CL2          ;37;8;1;.0    ;.0    ;19.3 ; 
+2020;316000;M;MAITRISE       ;45;Z;S/CHEF SERV.CL2          ;34;8;1;.0    ;.0    ;18.0 ;P
+2020;316550;M;MAITRISE       ;93;Z;S/CHEF SERV.CL2          ;38;7;1;.0    ;.0    ;18.2 ; 
+2020;318100;M;MAITRISE       ;63;Z;S/CHEF SERV.CL2          ;35;7;1;.0    ;.0    ;18.7 ;P
+2020;323400;M;MASTER         ;58;Z;S/CHEF SERV.CL2          ;34;5;1;.0    ;.0    ;18.3 ;P
+2020;323750;M;MASTER         ;26;Z;S/CHEF SERV.CL2          ;29;5;1;.0    ;.0    ;18.8 ;P
+2020;324250;M;MASTER         ;28;Z;S/CHEF SERV.CL2          ;29;5;1;.0    ;.0    ;19.2 ;P
+2020;69050;F;SECONDAIRE     ;117;Z;REDACTEUR PRINCIPAL      ;54;20;7;.0    ;4.0   ;18.1 ;P
+2020;76200;M;MAITRISE       ;25;Z;REDACTEUR PRINCIPAL      ;41;11;7;.0    ;3.0   ;19.3 ;P
+2020;29750;M;SECONDAIRE     ;4;Z;REDACTEUR PRINCIPAL      ;59;37;5;.0    ;.0    ;17.6 ; 
+2020;33900;M;SECONDAIRE     ;62;Z;REDACTEUR PRINCIPAL      ;57;34;5;.0    ;.0    ;18.0 ; 
+2020;37400;F;SECONDAIRE     ;124;Z;REDACTEUR PRINCIPAL      ;54;33;5;.0    ;.0    ;18.0 ;P
+2020;31650;M;SECONDAIRE     ;37;Z;REDACTEUR PRINCIPAL      ;60;36;4;.0    ;.0    ;19.0 ;P
+2020;34800;M;SECONDAIRE     ;12;Z;REDACTEUR PRINCIPAL      ;59;33;4;.0    ;.0    ;18.8 ;P
+2020;36100;M;SECONDAIRE     ;38;Z;REDACTEUR PRINCIPAL      ;52;33;4;.0    ;.0    ;19.1 ;P
+2020;36950;F;BAC            ;1;Z;REDACTEUR PRINCIPAL      ;53;33;4;.0    ;.0    ;19.2 ;P
+2020;38600;M;BAC            ;65;Z;REDACTEUR PRINCIPAL      ;59;32;4;.0    ;3.0   ;19.0 ;P
+2020;38800;M;SECONDAIRE     ;15;Z;REDACTEUR PRINCIPAL      ;58;32;4;.0    ;.0    ;19.2 ;P
+2020;39750;M;SECONDAIRE     ;2;Z;REDACTEUR PRINCIPAL      ;54;32;4;.0    ;.0    ;19.5 ;P
+2020;40000;M;BAC            ;19;Z;REDACTEUR PRINCIPAL      ;56;32;4;.0    ;.0    ;19.5 ;P
+2020;40150;M;SECONDAIRE     ;14;Z;REDACTEUR PRINCIPAL      ;54;32;4;.0    ;.0    ;19.5 ;P
+2020;41250;M;SECONDAIRE     ;48;Z;REDACTEUR PRINCIPAL      ;57;31;4;.0    ;.0    ;19.2 ;P
+2020;42400;M;SECONDAIRE     ;12;Z;REDACTEUR PRINCIPAL      ;54;31;4;.0    ;.0    ;18.8 ;P
+2020;43450;M;SECONDAIRE     ;12;Z;REDACTEUR PRINCIPAL      ;56;31;4;.0    ;.0    ;18.8 ;P
+2020;44650;M;SECONDAIRE     ;66;Z;REDACTEUR PRINCIPAL      ;58;31;4;.0    ;.0    ;19.0 ;P
+2020;45150;M;SECONDAIRE     ;13;Z;REDACTEUR PRINCIPAL      ;55;30;4;.0    ;.0    ;19.5 ;P
+2020;47950;M;BAC            ;58;Z;REDACTEUR PRINCIPAL      ;58;29;4;.0    ;.0    ;19.0 ;P
+2020;48800;F;BAC            ;68;Z;REDACTEUR PRINCIPAL      ;52;29;4;.0    ;.0    ;19.0 ;P
+2020;52600;F;BAC            ;919;Z;REDACTEUR PRINCIPAL      ;51;27;4;.0    ;3.0   ;19.2 ;P
+2020;53450;M;BAC            ;58;Z;REDACTEUR PRINCIPAL      ;52;27;4;.0    ;2.0   ;18.5 ;P
+2020;32900;M;SECONDAIRE     ;20;Z;REDACTEUR PRINCIPAL      ;54;34;3;.0    ;.0    ;19.0 ;P
+2020;315250;M;LICENCE COMMERC;20;Z;REDACTEUR PRINCIPAL      ;31;8;3;.0    ;.0    ;18.5 ;P
+2020;29050;F;SECONDAIRE     ;51;Z;REDACTEUR PRINCIPAL      ;60;37;2;.0    ;2.0   ;19.1 ; 
+2020;30350;F;BAC            ;27;Z;REDACTEUR PRINCIPAL      ;58;37;2;.0    ;4.0   ;19.0 ; 
+2020;33600;F;SECONDAIRE     ;88;Z;REDACTEUR PRINCIPAL      ;59;34;2;.0    ;.0    ;18.0 ; 
+2020;38750;M;SECONDAIRE     ;85;Z;REDACTEUR PRINCIPAL      ;56;32;2;.0    ;.0    ;19.0 ; 
+2020;45100;M;SECONDAIRE     ;68;Z;REDACTEUR PRINCIPAL      ;56;31;2;.0    ;.0    ;19.2 ; 
+2020;45300;M;BAC            ;21;Z;REDACTEUR PRINCIPAL      ;58;30;2;.0    ;.0    ;18.6 ; 
+2020;45400;M;SECONDAIRE     ;19;Z;REDACTEUR PRINCIPAL      ;53;30;2;.0    ;.0    ;19.2 ; 
+2020;45600;M;SECONDAIRE     ;16;Z;REDACTEUR PRINCIPAL      ;58;30;2;.0    ;.0    ;18.7 ; 
+2020;45800;M;BAC            ;41;Z;REDACTEUR PRINCIPAL      ;50;30;2;.0    ;.0    ;18.6 ; 
+2020;60750;M;BAC            ;41;Z;REDACTEUR PRINCIPAL      ;50;25;2;.0    ;.0    ;19.5 ;P
+2020;63200;M;SECONDAIRE     ;1;Z;REDACTEUR PRINCIPAL      ;51;24;2;.0    ;.0    ;19.3 ; 
+2020;70150;M;BAC            ;113;Z;REDACTEUR PRINCIPAL      ;43;18;2;.0    ;.0    ;19.5 ;P
+2020;75400;F;BAC+2          ;57;Z;REDACTEUR PRINCIPAL      ;40;10;2;.0    ;1.0   ;18.3 ; 
+2020;76300;M;BAC+2          ;27;Z;REDACTEUR PRINCIPAL      ;36;10;2;.0    ;1.0   ;19.0 ;P
+2020;313750;F;LICENCE        ;130;Z;REDACTEUR PRINCIPAL      ;32;8;2;.0    ;1.0   ;19.1 ;P
+2020;314200;F;LICENCE        ;31;Z;REDACTEUR PRINCIPAL      ;34;8;2;.0    ;52.0  ;19.1 ; 
+2020;314300;F;LICENCE        ;48;Z;REDACTEUR PRINCIPAL      ;31;8;2;.0    ;.0    ;19.2 ;P
+2020;319450;M;LICENCE        ;88;Z;REDACTEUR PRINCIPAL      ;29;7;2;.0    ;.0    ;19.5 ; 
+2020;321650;M;MAITRISE       ;50;Z;REDACTEUR PRINCIPAL      ;35;6;2;.0    ;3.0   ;19.5 ;P
+2020;67950;M;BAC            ;89;Z;REDACTEUR CL1            ;51;21;4;.0    ;1.0   ;19.3 ;P
+2020;36200;M;SECONDAIRE     ;26;Z;REDACTEUR CL1            ;58;33;3;.0    ;.0    ;18.5 ;P
+2020;49050;M;SECONDAIRE     ;37;Z;REDACTEUR CL1            ;52;29;3;.0    ;.0    ;18.2 ;P
+2020;38500;M;SECONDAIRE     ;9;Z;REDACTEUR CL1            ;56;32;2;.0    ;.0    ;19.2 ; 
+2020;42200;M;SECONDAIRE     ;64;Z;REDACTEUR CL1            ;52;31;2;.0    ;.0    ;19.5 ;P
+2020;45750;M;SECONDAIRE     ;5;Z;REDACTEUR CL1            ;55;30;2;.0    ;.0    ;19.5 ;P
+2020;47200;M;SECONDAIRE     ;59;Z;REDACTEUR CL1            ;53;29;2;.0    ;.0    ;19.3 ;P
+2020;47700;M;SECONDAIRE     ;70;Z;REDACTEUR CL1            ;52;29;2;.0    ;.0    ;19.0 ;P
+2020;75700;M;BAC+2          ;111;Z;REDACTEUR CL1            ;35;11;2;.0    ;.0    ;18.0 ; 
+2020;26600;M;SECON 1ER CYCLE;59;Z;REDACTEUR CL1            ;60;38;1;.0    ;.0    ;19.2 ; 
+2020;32550;F;SECONDAIRE     ;2;Z;REDACTEUR CL1            ;60;35;1;.0    ;3.0   ;18.1 ; 
+2020;37150;F;SECONDAIRE     ;7;Z;REDACTEUR CL1            ;54;33;1;.0    ;1.0   ;18.2 ; 
+2020;40200;M;SECONDAIRE     ;7;Z;REDACTEUR CL1            ;54;32;1;.0    ;2.0   ;18.8 ; 
+2020;41400;M;SECONDAIRE     ;6;Z;REDACTEUR CL1            ;56;31;1;.0    ;.0    ;19.5 ; 
+2020;52900;M;SECONDAIRE     ;56;Z;REDACTEUR CL1            ;50;27;1;.0    ;.0    ;19.5 ; 
+2020;55100;M;SECONDAIRE     ;919;Z;REDACTEUR CL1            ;47;26;1;.0    ;.0    ;19.2 ; 
+2020;56400;F;BAC            ;8;Z;REDACTEUR CL1            ;48;25;1;.0    ;.0    ;19.2 ; 
+2020;56500;M;SECONDAIRE     ;7;Z;REDACTEUR CL1            ;46;25;1;.0    ;.0    ;19.3 ; 
+2020;66200;M;BAC            ;24;Z;REDACTEUR CL1            ;47;23;1;.0    ;.0    ;19.1 ; 
+2020;76050;M;BACCALAUREAT   ;50;Z;REDACTEUR CL1            ;41;10;1;.0    ;3.0   ;19.5 ; 
+2020;310500;M;BAC            ;52;Z;REDACTEUR CL1            ;34;10;1;.0    ;.0    ;19.5 ;P
+2020;323800;M;LICENCE        ;43;Z;REDACTEUR CL1            ;34;5;1;.0    ;.0    ;18.0 ;P
+2020;323850;M;LICENCE        ;41;Z;REDACTEUR CL1            ;28;5;1;.0    ;.0    ;19.5 ;P
+2020;324000;M;LICENCE        ;70;Z;REDACTEUR CL1            ;33;5;1;.0    ;.0    ;19.0 ;P
+2020;33300;M;SECONDAIRE     ;10;Z;REDACTEUR CL2            ;55;34;6;.0    ;.0    ;10.5 ; 
+2020;38150;F;SECONDAIRE     ;126;Z;REDACTEUR CL2            ;56;32;4;.0    ;4.0   ;17.5 ;P
+2020;48900;M;SECONDAIRE     ;67;Z;REDACTEUR CL2            ;54;29;3;.0    ;.0    ;19.1 ; 
+2020;48950;M;SECONDAIRE     ;60;Z;REDACTEUR CL2            ;50;29;3;.0    ;.0    ;18.0 ; 
+2020;27850;F;SECONDAIRE     ;15;Z;REDACTEUR CL2            ;58;38;2;.0    ;2.0   ;19.0 ;P
+2020;34150;F;SECONDAIRE     ;0;Z;REDACTEUR CL2            ;58;34;2;.0    ;2.0   ;19.1 ;P
+2020;53250;M;SECONDAIRE     ;89;Z;REDACTEUR CL2            ;52;27;2;.0    ;2.0   ;19.3 ;P
+2020;56350;M;SECONDAIRE     ;13;Z;REDACTEUR CL2            ;49;25;2;.0    ;.0    ;19.5 ;P
+2020;65300;M;BAC            ;18;Z;REDACTEUR CL2            ;49;23;2;.0    ;.0    ;19.0 ;P
+2020;76500;F;BAC            ;21;Z;REDACTEUR CL2            ;40;11;2;.0    ;5.0   ;18.6 ;P
+2020;42850;M;SECONDAIRE     ;50;Z;REDACTEUR CL2            ;54;31;1;.0    ;3.0   ;18.7 ; 
+2020;47300;M;SECONDAIRE     ;39;Z;REDACTEUR CL2            ;59;29;1;.0    ;.0    ;19.0 ; 
+2020;50900;M;SECONDAIRE     ;113;Z;REDACTEUR CL2            ;52;28;1;.0    ;.0    ;19.2 ; 
+2020;52700;M;SECONDAIRE     ;74;Z;REDACTEUR CL2            ;49;27;1;.0    ;.0    ;19.5 ; 
+2020;54150;M;SECONDAIRE     ;25;Z;REDACTEUR CL2            ;52;27;1;.0    ;.0    ;19.3 ; 
+2020;63900;M;BAC            ;77;Z;REDACTEUR CL2            ;47;24;1;.0    ;.0    ;19.5 ; 
+2020;65200;M;BAC            ;119;Z;REDACTEUR CL2            ;50;23;1;.0    ;.0    ;19.0 ; 
+2020;68450;M;SECONDAIRE     ;51;Z;REDACTEUR CL2            ;48;21;1;.0    ;.0    ;19.3 ; 
+2020;71600;F;7EME ANNÉE     ;87;Z;REDACTEUR CL2            ;43;12;1;.0    ;.0    ;19.0 ; 
+2020;74650;M;BAC            ;67;Z;REDACTEUR CL2            ;35;11;1;.0    ;.0    ;19.1 ; 
+2020;309550;F;BAC            ;47;Z;REDACTEUR CL2            ;32;10;1;.0    ;62.0  ;19.0 ; 
+2020;309800;M;BAC            ;2;Z;REDACTEUR CL2            ;32;10;1;.0    ;6.0   ;19.1 ; 
+2020;310150;F;BACCALAUREAT   ;37;Z;REDACTEUR CL2            ;30;10;1;.0    ;2.0   ;19.0 ; 
+2020;310450;M;BAC            ;71;Z;REDACTEUR CL2            ;38;10;1;.0    ;.0    ;16.0 ; 
+2020;310600;M;BAC            ;31;Z;REDACTEUR CL2            ;39;10;1;.0    ;.0    ;18.5 ; 
+2020;310700;M;BAC            ;63;Z;REDACTEUR CL2            ;32;10;1;.0    ;.0    ;18.6 ; 
+2020;311050;M;BAC            ;127;Z;REDACTEUR CL2            ;37;10;1;.0    ;.0    ;19.0 ;P
+2020;318000;M;BAC+2          ;43;Z;REDACTEUR CL2            ;37;7;1;.0    ;.0    ;18.1 ;P
+2020;319050;F;LICENCE        ;45;Z;REDACTEUR CL2            ;28;7;1;.0    ;.0    ;19.0 ; 
+2020;319150;M;BAC+2          ;117;Z;REDACTEUR CL2            ;35;7;1;.0    ;.0    ;18.8 ; 
+2020;319300;M;BAC+2          ;30;Z;REDACTEUR CL2            ;33;7;1;.0    ;.0    ;19.0 ;P
+2020;319400;M;BAC+2          ;44;Z;REDACTEUR CL2            ;28;7;1;.0    ;.0    ;18.6 ;P
+2020;43650;M;BAC            ;60;Z;REDACTEUR CL3            ;54;31;7;.0    ;78.0  ;18.1 ; 
+2020;76550;M;SECONDAIRE     ;82;Z;REDACTEUR CL3            ;43;11;5;.0    ;.0    ;18.3 ; 
+2020;63100;F;BAC            ;84;Z;REDACTEUR CL3            ;49;24;3;.0    ;2.0   ;19.0 ;P
+2020;65850;M;BAC            ;98;Z;REDACTEUR CL3            ;50;23;3;.0    ;2.0   ;19.1 ; 
+2020;309700;F;BAC            ;104;Z;REDACTEUR CL3            ;31;10;3;.0    ;54.0  ;18.1 ; 
+2020;31200;F;SECONDAIRE     ;50;Z;REDACTEUR CL3            ;58;36;2;.0    ;.0    ;19.5 ;P
+2020;34850;M;SECONDAIRE     ;45;Z;REDACTEUR CL3            ;56;33;2;.0    ;.0    ;19.0 ;P
+2020;43550;M;SECONDAIRE     ;20;Z;REDACTEUR CL3            ;52;31;2;.0    ;.0    ;18.0 ;P
+2020;54450;M;SECONDAIRE     ;37;Z;REDACTEUR CL3            ;49;27;2;.0    ;.0    ;19.0 ;P
+2020;56900;M;SECONDAIRE     ;69;Z;REDACTEUR CL3            ;50;25;2;.0    ;.0    ;19.0 ;P
+2020;65150;F;BAC            ;47;Z;REDACTEUR CL3            ;53;23;2;.0    ;.0    ;19.0 ;P
+2020;75300;M;SECONDAIRE     ;18;Z;REDACTEUR CL3            ;42;11;2;.0    ;.0    ;19.0 ; 
+2020;309500;F;BAC            ;36;Z;REDACTEUR CL3            ;33;10;2;.0    ;.0    ;18.6 ; 
+2020;312200;M;BAC            ;28;Z;REDACTEUR CL3            ;33;9;2;.0    ;.0    ;19.0 ; 
+2020;313350;M;BAC            ;32;Z;REDACTEUR CL3            ;38;9;2;.0    ;5.0   ;19.5 ; 
+2020;314350;M;BAC            ;109;Z;REDACTEUR CL3            ;30;8;2;.0    ;.0    ;18.6 ; 
+2020;39000;F;SECONDAIRE     ;2;Z;REDACTEUR CL3            ;57;32;1;.0    ;3.0   ;18.6 ; 
+2020;51600;M;SECONDAIRE     ;14;Z;REDACTEUR CL3            ;52;28;1;.0    ;.0    ;19.5 ;P
+2020;63300;M;SECONDAIRE     ;17;Z;REDACTEUR CL3            ;48;24;1;.0    ;.0    ;19.1 ; 
+2020;65100;F;BAC            ;25;Z;REDACTEUR CL3            ;50;23;1;.0    ;.0    ;19.3 ; 
+2020;67100;M;BAC            ;79;Z;REDACTEUR CL3            ;53;22;1;.0    ;.0    ;18.0 ; 
+2020;67750;M;BAC            ;44;Z;REDACTEUR CL3            ;50;22;1;.0    ;.0    ;18.6 ; 
+2020;70200;M;SECONDAIRE     ;13;Z;REDACTEUR CL3            ;48;18;1;.0    ;.0    ;19.5 ; 
+2020;309950;M;SECONDAIRE     ;36;Z;REDACTEUR CL3            ;33;10;1;.0    ;.0    ;18.8 ; 
+2020;311600;M;BAC            ;26;Z;REDACTEUR CL3            ;31;10;1;.0    ;.0    ;19.1 ; 
+2020;311650;M;BAC            ;101;Z;REDACTEUR CL3            ;33;10;1;.0    ;3.0   ;18.2 ; 
+2020;315350;M;BAC            ;9;Z;REDACTEUR CL3            ;39;8;1;.0    ;.0    ;19.0 ; 
+2020;316400;M;BAC            ;105;Z;REDACTEUR CL3            ;28;7;1;.0    ;1.0   ;18.3 ; 
+2020;316600;M;BAC            ;72;Z;REDACTEUR CL3            ;27;7;1;.0    ;2.0   ;19.0 ; 
+2020;316750;M;BAC            ;87;Z;REDACTEUR CL3            ;37;7;1;.0    ;.0    ;19.5 ; 
+2020;316900;M;BAC            ;14;Z;REDACTEUR CL3            ;30;7;1;.0    ;.0    ;19.2 ; 
+2020;317400;M;BAC            ;71;Z;REDACTEUR CL3            ;33;7;1;.0    ;.0    ;18.7 ; 
+2020;317850;M;BAC            ;5;Z;REDACTEUR CL3            ;31;7;1;.0    ;5.0   ;19.2 ; 
+2020;323050;F;BAC+2          ;48;Z;REDACTEUR CL3            ;33;5;1;.0    ;.0    ;18.0 ;P
+2020;44950;M;SECONDAIRE     ;10;Z;CHEF DE SEC.H.C CL0      ;57;31;10;.0    ;244.0 ;10.5 ; 
+2020;48650;M;SECONDAIRE     ;63;Z;CHEF DE SEC.H.C CL0      ;53;29;10;.0    ;.0    ;18.0 ;P
+2020;56950;M;SECONDAIRE     ;31;Z;CHEF DE SEC.H.C CL0      ;48;25;8;.0    ;.0    ;19.0 ;P
+2020;39650;M;SECONDAIRE     ;38;Z;CHEF DE SEC.H.C CL0      ;58;32;7;.0    ;.0    ;19.0 ;P
+2020;47350;M;SECONDAIRE     ;45;Z;CHEF DE SEC.H.C CL0      ;55;29;7;.0    ;12.0  ;18.7 ; 
+2020;67150;M;BAC            ;16;Z;CHEF DE SEC.H.C CL0      ;51;22;7;.0    ;9.0   ;17.4 ; 
+2020;48000;M;SECONDAIRE     ;17;Z;CHEF DE SEC.H.C CL0      ;54;29;6;.0    ;.0    ;18.5 ;P
+2020;55050;M;SECONDAIRE     ;6;Z;CHEF DE SEC.H.C CL0      ;47;26;6;.0    ;.0    ;19.2 ;P
+2020;31250;F;SECONDAIRE     ;90;Z;CHEF DE SEC.H.C CL0      ;57;37;2;.0    ;6.0   ;19.0 ; 
+2020;33500;F;SECON 1ER CYCLE;1;Z;CHEF DE SEC.H.C CL0      ;57;34;2;.0    ;.0    ;19.1 ; 
+2020;35200;M;SECON 1ER CYCLE;83;Z;CHEF DE SEC.H.C CL0      ;60;33;2;.0    ;.0    ;19.0 ; 
+2020;40100;M;SECON 1ER CYCLE;50;Z;CHEF DE SEC.H.C CL0      ;55;32;2;.0    ;.0    ;19.5 ; 
+2020;56450;M;SECONDAIRE     ;6;Z;CHEF DE SEC.H.C CL0      ;47;25;2;.0    ;.0    ;18.2 ; 
+2020;63150;F;SECONDAIRE     ;1;Z;CHEF DE SEC.H.C CL0      ;51;24;2;.0    ;.0    ;19.0 ;P
+2020;65550;M;BAC            ;79;Z;CHEF DE SEC.H.C CL0      ;46;23;2;.0    ;.0    ;18.0 ;P
+2020;67250;M;SECONDAIRE     ;52;Z;CHEF DE SEC.H.C CL0      ;53;22;2;.0    ;.0    ;19.5 ; 
+2020;67350;M;SECONDAIRE     ;61;Z;CHEF DE SEC.H.C CL0      ;48;22;2;.0    ;.0    ;19.5 ; 
+2020;67500;M;SECONDAIRE     ;23;Z;CHEF DE SEC.H.C CL0      ;49;22;2;.0    ;.0    ;18.0 ; 
+2020;52250;M;SECONDAIRE     ;19;Z;CHEF DE SECT.CL1         ;55;28;9;.0    ;.0    ;19.5 ;P
+2020;67800;M;SECONDAIRE     ;57;Z;CHEF DE SECT.CL1         ;45;21;4;.0    ;3.0   ;18.7 ; 
+2020;68200;M;SECONDAIRE     ;39;Z;CHEF DE SECT.CL1         ;47;21;3;.0    ;.0    ;19.0 ;P
+2020;68250;M;SECONDAIRE     ;121;Z;CHEF DE SECT.CL1         ;48;21;3;.0    ;.0    ;19.0 ;P
+2020;68600;M;SECONDAIRE     ;39;Z;CHEF DE SECT.CL1         ;48;21;3;.0    ;.0    ;19.0 ;P
+2020;71950;M;BAC            ;74;Z;CHEF DE SECT.CL1         ;33;12;3;.0    ;.0    ;19.3 ;P
+2020;26150;F;SECON 1ER CYCLE;50;Z;CHEF DE SECT.CL1         ;58;39;2;.0    ;5.0   ;19.5 ;P
+2020;51350;F;SECONDAIRE     ;57;Z;CHEF DE SECT.CL1         ;52;28;2;.0    ;.0    ;18.7 ; 
+2020;69000;F;SECONDAIRE     ;10;Z;CHEF DE SECT.CL1         ;47;20;2;.0    ;.0    ;19.1 ;P
+2020;73200;F;BAC            ;129;Z;CHEF DE SECT.CL1         ;41;14;2;.0    ;.0    ;19.1 ;P
+2020;39850;M;SECONDAIRE     ;68;Z;SECRETAIRE PR.CL1        ;55;32;4;.0    ;2.0   ;19.0 ; 
+2020;54200;F;SECONDAIRE     ;27;Z;SECRETAIRE PR.CL1        ;50;27;3;.0    ;.0    ;19.0 ;P
+2020;68900;M;SECONDAIRE     ;65;Z;SECRETAIRE PR.CL1        ;44;21;3;.0    ;2.0   ;19.0 ;P
+2020;69400;F;SECONDAIRE     ;95;Z;SECRETAIRE PR.CL1        ;42;20;3;.0    ;6.0   ;18.0 ; 
+2020;74300;M;BAC            ;15;Z;SECRETAIRE PR.CL1        ;35;11;3;.0    ;.0    ;19.0 ;P
+2020;75250;M;BAC            ;5;Z;SECRETAIRE PR.CL1        ;45;11;3;.0    ;.0    ;19.2 ; 
+2020;75600;M;BAC            ;101;Z;SECRETAIRE PR.CL1        ;34;10;3;.0    ;.0    ;18.0 ;P
+2020;75950;M;BAC            ;80;Z;SECRETAIRE PR.CL1        ;34;10;3;.0    ;.0    ;18.0 ;P
+2020;63700;F;SECONDAIRE     ;27;Z;SECRETAIRE PR.CL1        ;49;24;2;.0    ;1.0   ;19.0 ; 
+2020;75350;M;SECONDAIRE     ;108;Z;SECRETAIRE PR.CL1        ;38;11;2;.0    ;9.0   ;18.5 ; 
+2020;75850;F;BAC            ;35;Z;SECRETAIRE PR.CL1        ;31;10;2;.0    ;.0    ;19.0 ;P
+2020;76650;F;BAC            ;98;Z;SECRETAIRE PR.CL1        ;37;11;2;.0    ;2.0   ;19.2 ;P
+2020;309600;F;BAC            ;53;Z;SECRETAIRE PRINC.CL2     ;35;10;3;.0    ;43.0  ;18.3 ; 
+2020;53850;F;SECONDAIRE     ;7;Z;SECRETAIRE PRINC.CL2     ;50;27;2;.0    ;4.0   ;18.2 ;P
+2020;71200;M;7EME ANNEE     ;1;Z;SECRETAIRE PRINC.CL2     ;44;17;2;.0    ;.0    ;19.1 ;P
+2020;72050;M;6EME SECONDAIRE;101;Z;SECRETAIRE PRINC.CL2     ;36;12;2;.0    ;.0    ;18.2 ;P
+2020;72600;M;               ;4;Z;SECRETAIRE PRINC.CL2     ;43;15;2;.0    ;.0    ;18.7 ;P
+2020;309200;F;BAC            ;40;Z;SECRETAIRE PRINC.CL2     ;41;10;2;.0    ;.0    ;19.3 ;P
+2020;309300;F;BAC            ;11;Z;SECRETAIRE PRINC.CL2     ;44;10;2;.0    ;.0    ;18.7 ;P
+2020;310050;M;FORM.PROF      ;80;Z;SECRETAIRE PRINC.CL2     ;42;10;2;.0    ;.0    ;18.2 ;P
+2020;310950;F;BAC            ;43;Z;SECRETAIRE PRINC.CL2     ;33;10;2;.0    ;.0    ;18.1 ;P
+2020;310650;M;BAC            ;124;Z;SECRETAIRE PR.CL3        ;36;10;6;.0    ;.0    ;18.5 ;P
+2020;311850;F;BAC            ;14;Z;SECRETAIRE PR.CL3        ;39;10;6;.0    ;.0    ;19.2 ;P
+2020;314500;M;BAC            ;107;Z;SECRETAIRE PR.CL3        ;29;8;4;.0    ;4.0   ;18.3 ; 
+2020;316250;M;BAC            ;62;Z;SECRETAIRE PR.CL3        ;33;8;4;.0    ;.0    ;18.0 ; 
+2020;316350;M;BAC            ;84;Z;SECRETAIRE PR.CL3        ;32;7;3;.0    ;.0    ;18.8 ;P
+2020;316450;M;BTP            ;8;Z;SECRETAIRE PR.CL3        ;34;7;3;.0    ;2.0   ;19.2 ;P
+2020;316650;M;BAC            ;2;Z;SECRETAIRE PR.CL3        ;32;7;3;.0    ;2.0   ;18.6 ;P
+2020;316700;M;BAC            ;103;Z;SECRETAIRE PR.CL3        ;31;7;3;.0    ;.0    ;19.0 ;P
+2020;316850;M;BAC            ;130;Z;SECRETAIRE PR.CL3        ;35;7;3;.0    ;.0    ;14.9 ; 
+2020;316950;M;BTP            ;48;Z;SECRETAIRE PR.CL3        ;35;7;3;.0    ;4.0   ;18.5 ;P
+2020;317000;M;BAC            ;49;Z;SECRETAIRE PR.CL3        ;35;7;3;.0    ;.0    ;18.2 ;P
+2020;317100;M;BAC            ;125;Z;SECRETAIRE PR.CL3        ;28;7;3;.0    ;.0    ;19.2 ;P
+2020;317200;M;BAC            ;97;Z;SECRETAIRE PR.CL3        ;35;7;3;.0    ;.0    ;18.2 ;P
+2020;317250;M;BAC            ;78;Z;SECRETAIRE PR.CL3        ;32;7;3;.0    ;.0    ;19.5 ;P
+2020;317300;F;BAC            ;120;Z;SECRETAIRE PR.CL3        ;31;7;3;.0    ;7.0   ;19.1 ;P
+2020;317350;M;BAC            ;50;Z;SECRETAIRE PR.CL3        ;35;7;3;.0    ;1.0   ;19.2 ;P
+2020;317450;M;BAC            ;123;Z;SECRETAIRE PR.CL3        ;39;7;3;.0    ;.0    ;18.5 ;P
+2020;317800;M;BAC            ;31;Z;SECRETAIRE PR.CL3        ;37;7;3;.0    ;.0    ;18.7 ;P
+2020;317950;M;BAC            ;110;Z;SECRETAIRE PR.CL3        ;35;7;3;.0    ;.0    ;19.2 ;P
+2020;318150;M;BAC            ;112;Z;SECRETAIRE PR.CL3        ;34;7;3;.0    ;.0    ;19.2 ;P
+2020;318200;M;BAC            ;114;Z;SECRETAIRE PR.CL3        ;31;7;3;.0    ;1.0   ;18.7 ;P
+2020;318250;M;BAC            ;36;Z;SECRETAIRE PR.CL3        ;33;7;3;.0    ;.0    ;18.6 ;P
+2020;318300;M;BAC            ;86;Z;SECRETAIRE PR.CL3        ;32;7;3;.0    ;.0    ;19.1 ;P
+2020;318400;F;BAC            ;42;Z;SECRETAIRE PR.CL3        ;30;7;3;.0    ;.0    ;17.0 ; 
+2020;318450;M;BAC            ;83;Z;SECRETAIRE PR.CL3        ;34;7;3;.0    ;.0    ;19.5 ;P
+2020;318850;M;BAC            ;22;Z;SECRETAIRE PR.CL3        ;35;7;3;.0    ;.0    ;18.1 ;P
+2020;319250;M;BAC            ;72;Z;SECRETAIRE PR.CL3        ;36;7;3;.0    ;.0    ;18.6 ;P
+2020;320100;M;BAC            ;22;Z;SECRETAIRE PR.CL3        ;34;7;3;.0    ;.0    ;18.1 ;P
+2020;320150;M;BAC            ;1;Z;SECRETAIRE PR.CL3        ;28;7;3;.0    ;.0    ;19.0 ;P
+2020;35150;M;SECONDAIRE     ;4;Z;SECRETAIRE CL1           ;58;33;4;.0    ;.0    ;17.8 ;P
+2020;75650;M;SECONDAIRE     ;33;Z;SECRETAIRE CL1           ;41;11;3;.0    ;.0    ;19.0 ; 
+2020;38400;M;SECONDAIRE     ;97;Z;SECRETAIRE CL1           ;53;32;2;1.0   ;.0    ;18.1 ;P
+2020;46700;M;SECON 1ER CYCLE;27;Z;SECRETAIRE CL1           ;50;30;2;.0    ;.0    ;19.0 ;P
+2020;73150;M;7 EME ANNEE    ;10;Z;SECRETAIRE CL1           ;36;14;2;.0    ;5.0   ;17.9 ;P
+2020;74050;M;7ÈME ANNEE     ;93;Z;SECRETAIRE CL1           ;37;11;2;.0    ;.0    ;18.0 ;P
+2020;74100;M;7EME ANNEE     ;62;Z;SECRETAIRE CL1           ;37;11;2;.0    ;.0    ;19.0 ;P
+2020;76100;M;SECONDAIRE     ;92;Z;SECRETAIRE CL1           ;33;10;2;.0    ;.0    ;19.2 ;P
+2020;77200;M;SECONDAIRE     ;99;Z;SECRETAIRE CL1           ;38;11;2;.0    ;.0    ;18.3 ;P
+2020;77250;M;SECONDAIRE     ;99;Z;SECRETAIRE CL1           ;48;11;2;.0    ;.0    ;18.8 ;P
+2020;312250;M;SECONDAIRE     ;80;Z;SECRETAIRE CL1           ;38;9;2;.0    ;.0    ;18.1 ;P
+2020;73950;M;SECONDAIRE     ;114;Z;SECRETAIRE CL2           ;35;11;3;.0    ;1.0   ;14.6 ; 
+2020;312400;F;SECONDAIRE     ;64;Z;SECRETAIRE CL2           ;35;9;3;.0    ;.0    ;18.7 ;P
+2020;312350;M;SECONDAIRE     ;41;Z;SECRETAIRE CL2           ;37;9;2;.0    ;.0    ;18.6 ;P
+2020;313100;M;7EME SECONDAIRE;105;Z;SECRETAIRE CL2           ;33;9;2;.0    ;.0    ;18.2 ;P
+2020;73800;M;SECONDAIRE     ;70;Z;SECRETAIRE CL3           ;38;12;9;.0    ;.0    ;19.0 ;P
+2020;308000;M;SECONDAIRE     ;33;Z;SECRETAIRE CL3           ;38;11;7;.0    ;.0    ;18.7 ; 
+2020;318050;M;7ÉME ANNEE     ;104;Z;SECRETAIRE CL3           ;35;7;3;.0    ;.0    ;18.5 ;P
+2020;319000;M;7ÉME SECONDAIRE;23;Z;SECRETAIRE CL3           ;34;7;3;.0    ;.0    ;18.5 ;P
+2020;46250;M;SECON 1ER CYCLE;24;Z;SECRETAIRE CL3           ;54;30;2;.0    ;.0    ;18.3 ;P
+2020;62650;M;PRIMAIRE       ;919;Z;SECRETAIRE CL3           ;52;25;2;.0    ;.0    ;18.7 ;P
+2020;68750;M;PRIMAIRE       ;26;Z;AGENT DE BUR.CL1         ;53;21;2;.0    ;.0    ;18.6 ;P
+2020;66450;M;PRIMAIRE       ;24;Z;AGENT DE BUR.CL2         ;45;22;3;.0    ;.0    ;18.6 ;P
+2020;311400;M;MASTER         ;0;1;CHEF DE SERVICE          ;33;10;3;.0    ;.0    ;19.0 ;P
+2020;76700;M;               ;0;1;SECRETAIRE PRINC.CL2     ;60;7;2;.0    ;.0    ;19.3 ;P
+2020;40300;M;SECONDAIRE     ;0;4;CHEF SERV.PRINC.         ;57;32;4;.0    ;.0    ;18.5 ; 
+2020;70250;M;MAITRISE       ;0;4;CHEF SERV.PRINC.         ;59;14;4;.0    ;.0    ;19.3 ; 
+2020;46550;F;SECONDAIRE     ;0;4;CHEF DE SERVICE          ;54;30;3;.0    ;.0    ;19.5 ; 
+2020;311350;M;MASTER         ;0;4;CHEF DE SERVICE          ;40;10;3;.0    ;.0    ;19.5 ;P
+2020;50200;M;SECONDAIRE     ;0;4;CHEF DE SERVICE          ;56;28;2;.0    ;.0    ;18.8 ; 
+2020;55250;F;SECONDAIRE     ;0;4;S/CHEF SERV.CL1          ;55;26;3;.0    ;2.0   ;19.5 ; 
+2020;41450;M;BAC            ;0;4;S/CHEF SERV.CL1          ;56;31;2;.0    ;.0    ;18.7 ; 
+2020;77900;F;INGENIEUR      ;0;4;S/CHEF SERV.CL1          ;29;5;2;.0    ;.0    ;19.5 ;P
+2020;320250;M;MASTER         ;0;4;S/CHEF SERV.CL1          ;32;7;2;.0    ;.0    ;18.7 ;P
+2020;313250;M;MAITRISE       ;0;4;S/CHEF SERV.CL1          ;40;9;1;.0    ;.0    ;19.3 ;P
+2020;314150;F;MAITRISE       ;0;4;S/CHEF SERV.CL1          ;35;8;1;.0    ;2.0   ;19.5 ;P
+2020;33400;M;SECONDAIRE     ;0;4;S/CHEF SERV.CL2          ;60;34;4;.0    ;.0    ;19.0 ;P
+2020;35800;M;SECONDAIRE     ;0;4;S/CHEF SERV.CL2          ;59;33;2;.0    ;.0    ;18.0 ;P
+2020;41050;M;SECONDAIRE     ;0;4;S/CHEF SERV.CL2          ;56;32;2;.0    ;2.0   ;19.5 ;P
+2020;55350;F;SECONDAIRE     ;0;4;S/CHEF SERV.CL2          ;53;26;2;.0    ;.0    ;19.1 ;P
+2020;42750;M;SECONDAIRE     ;0;4;S/CHEF SERV.CL2          ;57;31;1;.0    ;1.0   ;18.1 ; 
+2020;47600;M;SECONDAIRE     ;0;4;S/CHEF SERV.CL2          ;51;29;1;.0    ;.0    ;19.0 ; 
+2020;54700;M;SECONDAIRE     ;0;4;S/CHEF SERV.CL2          ;51;26;1;.0    ;.0    ;19.0 ; 
+2020;313500;F;MAITRISE       ;0;4;S/CHEF SERV.CL2          ;36;9;1;.0    ;.0    ;19.0 ; 
+2020;319200;M;BAC+4          ;0;4;S/CHEF SERV.CL2          ;34;7;1;.0    ;.0    ;19.5 ;P
+2020;323650;M;MASTER         ;0;4;S/CHEF SERV.CL2          ;28;5;1;.0    ;.0    ;19.5 ;P
+2020;326550;F;MASTER         ;0;4;S/CHEF SERV.CL2          ;28;4;1;.0    ;3.0   ;19.5 ;P
+2020;49350;M;SECONDAIRE     ;0;4;REDACTEUR PRINCIPAL      ;53;29;7;.0    ;.0    ;18.0 ; 
+2020;28700;M;SECONDAIRE     ;0;4;REDACTEUR PRINCIPAL      ;60;38;5;.0    ;.0    ;18.0 ;P
+2020;55000;M;BAC            ;0;4;REDACTEUR PRINCIPAL      ;49;26;3;.0    ;.0    ;18.0 ; 
+2020;44900;F;SECONDAIRE     ;0;4;REDACTEUR CL1            ;57;31;3;1.0   ;.0    ;18.6 ; 
+2020;43300;F;SECONDAIRE     ;0;4;REDACTEUR CL1            ;56;31;2;.0    ;.0    ;18.1 ; 
+2020;49600;F;SECONDAIRE     ;0;4;REDACTEUR CL1            ;49;29;1;.0    ;4.0   ;19.1 ; 
+2020;46050;F;SECONDAIRE     ;0;4;REDACTEUR CL2            ;52;30;2;.0    ;4.0   ;18.3 ;P
+2020;37300;M;SECON 1ER CYCLE;0;4;REDACTEUR CL3            ;56;33;1;.0    ;4.0   ;19.1 ; 
+2020;49450;F;SECONDAIRE     ;0;4;CHEF DE SEC.H.C CL0      ;55;29;5;2.0   ;.0    ;18.0 ; 
+2020;31950;M;SECON 1ER CYCLE;0;4;CHEF DE SECT.CL1         ;59;35;2;.0    ;114.0 ;18.5 ; 
+2020;35000;M;PRIMAIRE       ;0;4;SECRETAIRE PR.CL1        ;58;33;2;.0    ;.0    ;18.3 ; 
+2020;310850;M;BAC            ;0;4;SECRETAIRE PR.CL3        ;34;10;6;.0    ;2.0   ;18.0 ; 
+2020;311200;M;BAC            ;0;4;SECRETAIRE PR.CL3        ;29;10;6;.0    ;.0    ;19.0 ;P
+2020;319950;M;BAC            ;0;4;SECRETAIRE PR.CL3        ;36;7;3;.0    ;.0    ;18.0 ; 
+2020;49400;M;SECON 1ER CYCLE;0;4;SECRETAIRE PR.CL3        ;51;29;2;.0    ;.0    ;18.5 ;P
+2020;70300;M;SECONDAIRE     ;0;4;SECRETAIRE CL1           ;40;18;3;.0    ;.0    ;18.7 ;P
+2020;36800;M;SECONDAIRE     ;0;4;SECRETAIRE CL3           ;55;33;32;.0    ;6.0   ;18.0 ;P
+2020;318950;M;MASTER         ;0;7;S/CHEF SERV.CL1          ;35;7;2;.0    ;1.0   ;19.3 ;P
+2020;53650;F;SECONDAIRE     ;0;7;REDACTEUR CL3            ;52;27;2;.0    ;5.0   ;19.3 ;P
+2020;75100;F;MAITRISE       ;0;9;S/CHEF SERV.CL1          ;38;10;2;.0    ;2.0   ;19.3 ; 
+2020;314850;M;MASTER EN DROIT;0;9;S/CHEF SERV.CL1          ;37;8;2;.0    ;1.0   ;18.7 ; 
+2020;313800;F;LICENCE        ;0;9;REDACTEUR PRINCIPAL      ;33;8;2;.0    ;4.0   ;19.5 ;P
+2020;313850;F;DIP ISET       ;0;9;REDACTEUR PRINCIPAL      ;32;8;2;.0    ;2.0   ;19.5 ;P
+2020;311800;F;TECHNICIEN SUPE;0;9;REDACTEUR CL1            ;39;10;2;.0    ;1.0   ;19.5 ;P
+2020;312900;M;TECH SUPR      ;0;9;REDACTEUR CL1            ;38;9;1;.0    ;3.0   ;19.5 ; 
+2020;312950;M;TECHNICIEN SUP ;0;9;REDACTEUR CL1            ;35;9;1;.0    ;2.0   ;18.7 ; 
+2020;46500;M;SECONDAIRE     ;0;9;REDACTEUR CL2            ;53;30;6;.0    ;2.0   ;19.0 ;P
+2020;62600;M;BAC            ;0;9;REDACTEUR CL2            ;48;25;5;.0    ;.0    ;18.0 ; 
+2020;55900;F;SECONDAIRE     ;0;9;REDACTEUR CL2            ;52;26;2;.0    ;3.0   ;18.5 ;P
+2020;27550;F;SECONDAIRE     ;0;9;REDACTEUR CL2            ;58;38;1;.0    ;5.0   ;18.5 ; 
+2020;54800;F;SECONDAIRE     ;0;9;CHEF DE SECT.CL1         ;52;26;3;.0    ;.0    ;19.5 ;P
+2020;68350;M;SECONDAIRE     ;0;9;SECRETAIRE PRINC.CL2     ;45;21;4;.0    ;2.0   ;18.5 ; 
